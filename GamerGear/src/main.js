@@ -4,6 +4,14 @@ import App from "./App.vue";
 import Home from "./views/Home.vue";
 import Products from "./views/Products.vue";
 import "./styles/main.css";
+import "./styles/Navbar.css";
+import "./styles/Hero.css";
+import "./styles/SearchBar.css";
+import "./styles/ProductSection.css";
+import "./styles/ProductCard.css";
+import "./styles/Newsletter.css";
+import "./styles/Footer.css";
+import "./styles/Responsive.css";
 
 const router = createRouter({
   history: createWebHistory(),
