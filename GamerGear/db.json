@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "A4Tech Bloody Blazing A60",
+      "category": "Egér",
+      "brand": "A4Tech",
+      "price": 14260,
+      "badge": "RGB",
+      "description": "Vezetékes gamer egér RGB világítással és 8 gombbal.",
+      "image": "https://owp.klarna.com/product/640x640/3014992065/A4Tech-Bloody-A60.jpg?ph=true"
+    },
+    {
+      "id": 2,
+      "name": "White Shark GM-9004 Tristan",
+      "category": "Egér",
+      "brand": "White Shark",
+      "price": 8950,
+      "badge": "KÖNNYŰ",
+      "description": "Mézhálós kialakítású, RGB világítású vezetékes gamer egér.",
+      "image": "https://www.mytek.tn/media/catalog/product/s/o/souris-gamer-white-shark-gm-9004-tristan-blanc-v.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Logitech G305 LIGHTSPEED",
+      "category": "Egér",
+      "brand": "Logitech G",
+      "price": 17990,
+      "badge": "WIRELESS",
+      "description": "Vezeték nélküli gamer egér HERO érzékelővel.",
+      "image": "https://mouse.ge/files/resized/products/ezgif-2-01d608d0e9_1.1800x1800w.png"
+    },
+    {
+      "id": 4,
+      "name": "ASUS TUF Gaming K3 Gen II",
+      "category": "Billentyűzet",
+      "brand": "ASUS",
+      "price": 22990,
+      "badge": "RGB",
+      "description": "Mechanikus gamer billentyűzet RGB háttérvilágítással.",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-maz4cjso84htf7"
+    },
+    {
+      "id": 5,
+      "name": "Ajazz AK820 Pro",
+      "category": "Billentyűzet",
+      "brand": "Ajazz",
+      "price": 20532,
+      "badge": "75%",
+      "description": "Kompakt, hárommódú mechanikus billentyűzet kijelzővel és tekerőgombbal.",
+      "image": "https://f00.esfr.pl/foto/3/175565293929/5ab4c36e40534417429279e5648ef1d/-klawiatura-mech-ak820pro-flyin-fish-czar%2C175565293929_5.webp"
+    },
+    {
+      "id": 6,
+      "name": "Corsair K65 Pro Mini RGB",
+      "category": "Billentyűzet",
+      "brand": "Corsair",
+      "price": 50990,
+      "badge": "65%",
+      "description": "Kompakt mechanikus gamer billentyűzet RGB világítással.",
+      "image": "https://media.ldlc.com/r1600/ld/products/00/06/05/19/LD0006051942.jpg"
+    },
+    {
+      "id": 7,
+      "name": "SteelSeries Arctis Nova 1",
+      "category": "Headset",
+      "brand": "SteelSeries",
+      "price": 15890,
+      "badge": "KÉNYELMES",
+      "description": "Könnyű, vezetékes gamer headset levehető mikrofonnal.",
+      "image": "https://media.dinomarket.com/docs/imgTD/2024-10/DM_98AC3BD6CFCAABE22E6379B790C03957_171024111017_xl.jpg"
+    },
+    {
+      "id": 8,
+      "name": "HyperX Cloud III",
+      "category": "Headset",
+      "brand": "HyperX",
+      "price": 46590,
+      "badge": "TOP",
+      "description": "Vezetékes gamer headset memóriahabos fülpárnákkal és levehető mikrofonnal.",
+      "image": "https://eshopfrontend.orange.es/dw/image/v2/BJWB_PRD/on/demandware.static/-/Sites-orange-mirakl-master-catalog/default/dw0fbb529c/images/medium/c0c/c0c851ac0eef421aa070f6566706b4e4.png?sh=1080&sm=fit&sw=1440"
+    },
+    {
+      "id": 9,
+      "name": "Logitech G733 LIGHTSPEED",
+      "category": "Headset",
+      "brand": "Logitech G",
+      "price": 32990,
+      "badge": "WIRELESS",
+      "description": "Vezeték nélküli gamer headset RGB világítással.",
+      "image": "https://4frag.ru/image/cache/data/Naushniki/Logitech/logitech-g733-black-2-1000x1000.jpg"
+    }
+  ]
+}
